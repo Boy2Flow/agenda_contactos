@@ -1,6 +1,6 @@
 # Agenda de contactos
 ## Miembros del grupo
-- Alumno 1: Alex]
+- Alumno 1: [Alex]
 ## Descripción
 Programa en Python para gestionar una agenda de contactos desde consola desarrollado de forma colaborativa mediante un flujo de control de versiones.
 ## Funciones
